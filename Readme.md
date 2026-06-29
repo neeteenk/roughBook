@@ -7,3 +7,6 @@
 ## Dropbox
 
 ![HLD](hld/DropBox/Dropbox_hld.svg)
+
+## Local-Delivery-Service
+![HLD](hld/Local-Delivery-Service/Local_Delivery_Service_HLD.svg)
