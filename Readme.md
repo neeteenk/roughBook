@@ -10,3 +10,6 @@
 
 ## Local-Delivery-Service
 ![HLD](hld/Local-Delivery-Service/Local_Delivery_Service_HLD.svg)
+
+## News-Aggregator-Service
+![HLD](hld/News-Aggregator/News_Aggregator_HLD.svg)
